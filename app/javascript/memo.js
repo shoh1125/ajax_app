@@ -9,7 +9,7 @@ const buildHTML = (XHR) => {
     ${item.content}
     </div>
    </div>`;
-   retrun html;
+   return html;
 }; 
 
 
